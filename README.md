@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaochuanW
-- 👀 I’m interested in Geospatial science!
-- 🌱 I’m currently learning GIS programming and such
-- 💞️ I’m looking to collaborate on..
+- 👀 I’m interested in Geospatial Science!
+- 🌱 I’m currently learning GIS programming and such.
+- 💞️ I’m looking to collaborate on cool stuff!
 - 📫 How to reach me wangmaochuan@gmail.com
 
 <!---
